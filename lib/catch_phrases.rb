@@ -15,3 +15,4 @@ end
 
 def all_phrases
   mario
+  toadstool
